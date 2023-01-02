@@ -55,6 +55,9 @@ p {
     line-height: 1.7;
     margin-bottom: 20px;
 }
+q{
+    font-style: italic;
+}
 
 .wide-space {
     letter-spacing: 1.6px;
